@@ -10,7 +10,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 #### Planning
 
-- [x] Complete the project planning document
+- [ ] Complete the project planning document
 
 #### GitHub Set-Up
 
@@ -86,7 +86,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 ### Day 5 Goal 2: Call your getRandomComputerChoice function
 
 - [x] Call your function inside your click handler so that it determines the value of your computerChoice variable
-- [x] HINT: Your getRandomComputerChoice function works correctly if it returns rock, paper, or scissors when called
+  - [x] HINT: Your getRandomComputerChoice function works correctly if it returns rock, paper, or scissors when called
 
 #### Wrap
 
@@ -96,24 +96,24 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 ### Day 6 Goal 1: Create a function to handle your winner logic
 
-- [x] Write a function called chooseWinner that does accepts two parameters and returns winner
-- [x] Move your compound conditional logic that determines the winner inside your function
+- [ ] Write a function called chooseWinner that does accepts two parameters and returns winner
+- [ ] Move your compound conditional logic that determines the winner inside your function
 
 ### Day 6 Goal 2: Call your chooseWinner function
 
-- [x] Call your function inside your click handler so that it determines the value of your winner variable
-- [x] HINT: Your chooseWinner function works correctly if it returns "User wins!", "Computer wins!" or "No one wins!" when called
+- [ ] Call your function inside your click handler so that it determines the value of your winner variable
+  - [ ] HINT: Your chooseWinner function works correctly if it returns "User wins!", "Computer wins!" or "No one wins!" when called
 
 #### Wrap
 
-- [x] Commit your changes!
+- [ ] Commit your changes!
 
 ## Projects Extensions:
 
-- [x] Style the page to fit your personality
+- [ ] Style the page to fit your personality
 - [x] Validates input so that it will return “Not valid input” if the user types in a wrong choice.
 - [x] Accepts any form of a word regardless of capitalization (i.e. “Rock” “rock” roCk”)
-- [x] Keeps track of total wins and losses, until the page refreshes.
+- [ ] Keeps track of total wins and losses, until the page refreshes.
 - [ ] Create a game with more variety in throwing options. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
 
 ## References/Tools
